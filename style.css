@@ -1,0 +1,30 @@
+.navbar-titel{
+    margin-right:50%;
+}
+.buttons{
+    margin-left: 80%;
+}
+.search-bar{
+    align-self:center;
+    width: 50%;
+    /* height: 50px; */
+    margin-left: 25%;
+    margin-top: 50px;
+    padding: 7px;
+}
+#meals{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 10px;
+}
+.meal{
+    border : 1px solid goldenrod;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+    width: 300px;
+}
+.meal-name{
+    font-size: 45px;
+    color: goldenrod;
+}
