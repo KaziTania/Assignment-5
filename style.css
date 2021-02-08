@@ -9,6 +9,7 @@
     width: 50%;
     margin-left: 25%;
     margin-top: 50px;
+    margin-bottom: 50px;
     padding: 7px;
 }
 #meals{
@@ -26,4 +27,8 @@
 .meal-name{
     font-size: 45px;
     color: goldenrod;
+}
+.meal-img{
+    width: 100%;
+    height: 30%;
 }
